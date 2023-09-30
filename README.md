@@ -35,12 +35,6 @@ In this project, I used Python, specifically Pandas and Matplotlib, along with J
 - Plotted line charts, bar graphs, and pie charts to represent different aspects of the sales data.
 - Added labels, titles, and legends to make the visualizations informative.
 
-### 6. Documentation and Sharing
-
-- Documented the entire project in a Jupyter Notebook, including code, comments, and explanations.
-- Created this GitHub README file to summarize the project and share the key findings.
-- Included relevant charts and graphs to provide a visual overview.
-
 ## Conclusion
 
 This sales analysis project demonstrates the power of Python, Pandas, and Matplotlib in handling and analyzing real-world data. Through data cleaning, manipulation, and visualization, we gained valuable insights into the sales data, which can inform business decisions and strategies.
