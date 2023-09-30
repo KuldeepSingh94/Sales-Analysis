@@ -32,7 +32,7 @@ In this project, I used Python, specifically Pandas and Matplotlib, along with J
 ### 5. Data Visualization with Matplotlib
 
 - Created meaningful visualizations using Matplotlib to present insights visually.
-- Plotted line charts, bar graphs, and pie charts to represent different aspects of the sales data.
+- Plotted line charts, bar graphs to represent different aspects of the sales data.
 - Added labels, titles, and legends to make the visualizations informative.
 
 ## Conclusion
